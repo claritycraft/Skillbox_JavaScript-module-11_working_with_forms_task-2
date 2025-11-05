@@ -14,7 +14,7 @@ The repository contains folders with two solution variations for the task
 #### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
 
 ### En:
-#### Task 1
+#### Task 2
 Create a web page to calculate the delivery cost of products.
 Each product has the following characteristics:
 - Product Name: The user enters the name of the product.
@@ -32,7 +32,7 @@ delivery cost = (product weight * delivery distance) / 10
 __________________________________________________________________________________________________________
 
 ### Ru:
-#### Задача 1
+#### Задача 2
 Создайте веб-страницу для калькуляции стоимости доставки товаров. Каждый товар имеет следующие характеристики:
 
 Название товара: пользователь вводит название товара.
